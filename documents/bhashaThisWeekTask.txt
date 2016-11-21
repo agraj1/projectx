@@ -1,0 +1,30 @@
+lessons:
+
+category 1 - language enthusiast
+
+	lesson  structure:
+		starts from the basic. Few words, pictures, questions, phrases.
+		frame the questions and all the lesson  structure, then make it ready for the direct implementation.
+
+	lesson:
+		few alphabets: 
+		pictures - with words. man woman children bird animal
+		phrases - i am a man, this is my family. i am a woman. men and women. this is an animal. birds can fly.
+
+category 2 - tourist
+
+	lesson structure:
+		Few words in the beginning, or think over it. phrases and the common questions that one can face in the new place.
+	
+	lesson:
+		phrases: where is the hotel, how can i reach to the bus station, what is the price of this artifact, what is special about this place.
+						
+		
+category 3 - trying to impress the native speaker
+
+	lesson  structure:
+		few phrases, words and the common questions.
+		common questions.
+
+	lesson:
+		common sentences, thanks, you're good, beautiful, love.

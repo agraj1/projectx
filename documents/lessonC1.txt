@@ -1,0 +1,24 @@
+language enthusiast:
+	After completing the first two lessons, users get the access to the social network where they can interact with the native speakers to improve the language skills.
+----------------------------------------------------------------------------	
+A short intro to the alphabets, saying that these are similar to that of their native language.
+
+lesson 1
+	images: 
+		man woman tree sun moon morning night sleep
+	phrases: 
+		i am a man, this is a tree
+		good morning, i am gonna sleep
+			
+	then questions: 
+		show the images and ask for the word
+		give the word and ask them to select the image
+
+lesson 2		
+	phrases: of next level, which can lead to a conversation
+		
+		how are you, i am fine thanks, would you like to have a coffee, have you had your meal.
+	then questions:
+		how do you say - how are you in 'this language'
+	
+********* Now you get access to the social network !! *********
