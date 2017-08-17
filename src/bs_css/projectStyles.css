@@ -1,0 +1,33 @@
+/* custom style */
+
+.headermargin{
+  margin-top: 75px;
+}
+
+.sectionborder{
+	border:solid white;
+	border-radius: 8px;
+	background-color: white;
+}
+
+.bg-custom{
+	background-color: #edebea;
+}
+
+.footer-custom{
+	height: 50px;
+}
+
+.navcolor{
+	background-color: #dbb6da;
+}
+
+
+.captioncustom{
+	position: absolute;
+    top: 55%;
+    left: 20px;
+    width: 100%;
+    color: #fff;
+    /*opacity: 0.5;*/
+}
